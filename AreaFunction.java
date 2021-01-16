@@ -1,4 +1,4 @@
-public class TestProject{
+public class AreaFunction{
     
      public static void main(String []args){
         

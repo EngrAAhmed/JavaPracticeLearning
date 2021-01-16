@@ -1,10 +1,10 @@
-public class TestProject{
+public class SimpleMaths{
     
      public static void main(String []args){
         
     int x=20;
     int y=10;
-    TestProject obj = new TestProject();
+    SimpleMaths obj = new SimpleMaths();
     int Res=obj.add(x,y);
        System.out.println("Result after addition is "+Res);
     
